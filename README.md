@@ -21,4 +21,4 @@ Aqui você pode acompanhar meu progresso e tecnologias mais utilizadas:
 
 ### 📫 Como me encontrar
 - 💼 [LinkedIn](https://linkedin.com/in/tiago-sales-dos-santos)
-- 📧 [tiago.sales.santos@ccc.ufcg.edu.br]
+- 📧 tiago.sales.santos@ccc.ufcg.edu.br
