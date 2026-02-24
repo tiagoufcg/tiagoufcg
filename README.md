@@ -13,7 +13,6 @@
 Aqui você pode acompanhar meu progresso e tecnologias mais utilizadas:
 
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tiagoufcg&show_icons=true&theme=radical" alt="Estatísticas" height="150" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tiagoufcg&layout=compact&theme=radical" alt="Linguagens" height="150" />
 </p>
 
