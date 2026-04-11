@@ -4,20 +4,21 @@
 - 🏛️ Ex-Diretor de Marketing na **CodeX Jr.** (UFCG).
 - 🚀 Focado em me tornar um desenvolvedor Full Stack de alta performance.
 
-### 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Java, JavaScript, TypeScript, Python.
-- **Frontend:** React, HTML5, CSS3.
-- **Backend:** Node.js, Express.
+### 🛠️ Tecnologias & Ferramentas
 
-### 📊 Estatísticas
-Aqui você pode acompanhar meu progresso e tecnologias mais utilizadas:
-
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tiagoufcg&layout=compact&theme=radical" alt="Linguagens" height="150" />
-</p>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Front-end** | React, TypeScript, Tailwind CSS |
+| **Back-end** | Node.js, SQL, Integrações de API |
 
 ---
 
 ### 📫 Como me encontrar
-- 💼 [LinkedIn](https://linkedin.com/in/tiago-sales-dos-santos)
-- 📧 tiago.sales.santos@ccc.ufcg.edu.br
+
+- **Localização:** Campina Grande - PB 📍
+- **LinkedIn:** www.linkedin.com/in/tiago-sales-dos-santos
+- **E-mail:** tiago.sales.santos@ccc.ufcg.edu.br
+
+---
+
+![Resumo do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
