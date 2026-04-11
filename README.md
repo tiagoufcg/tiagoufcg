@@ -23,7 +23,6 @@
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagoufcg&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoufcg&layout=compact&theme=dark" />
-</p>
+![Estatísticas de Tiago](https://github-readme-stats.vercel.app/api?username=tiagoufcg&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![Linguagens de Tiago](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoufcg&layout=compact&theme=dark)
