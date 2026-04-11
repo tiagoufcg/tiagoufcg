@@ -21,8 +21,9 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🛠️ Tecnologias que domino
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tiagoufcg&theme=tokyonight&hide_border=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoufcg&layout=compact&theme=tokyonight&hide_border=true)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
