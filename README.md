@@ -62,18 +62,6 @@ A complete API with 30+ endpoints covering authentication, products, categories,
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" alt="Tiago's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tiagoufcg&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoufcg&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=tiagoufcg&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 💼 Experience
 
