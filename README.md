@@ -19,7 +19,6 @@ A multi-tenant SaaS for managing car wash operations, with a daily/monthly reven
 - ☁️ Production deployment: frontend on Vercel, backend on Render
 - **Stack:** React 19 · TypeScript · Vite · Tailwind · Node.js · Express · PostgreSQL · Prisma
 
-🔗 [Live demo](https://lavajato-one.vercel.app)
 
 ### 🛒 [Lojinha UFCG](https://github.com/tiagoufcg/WEB2): E-commerce REST API
 A complete API with 30+ endpoints covering authentication, products, categories, inventory, orders and users, with role-based access control (customer/admin).
